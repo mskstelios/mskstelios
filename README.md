@@ -5,10 +5,9 @@
 <ul>
   <li>💡 I like to explore new technologies.</li>
   <li>🎓 I’m currently studying BSc Computing and Cybersecurity at the University of Essex.</li>
-  <li>🌱 I’m on track for learning more about Software Development, Web Development and Ethical Hacking.</li>
+  <li>🌱 I’m on track for learning more about Software Development and Ethical Hacking.</li>
   <li>🚀 I enjoy working on personal projects to enhance my coding skills.</li>
   <li>🧠 I’m passionate about learning and applying cybersecurity best practices.</li>
-  <li>🌍 I’m interested in contributing to open-source projects and collaborative development.</li>
   <li>📚 I love reading tech blogs and books to stay updated on new trends and innovations.</li>
   <li>💻 I actively seek out challenges that involve problem-solving and creative coding solutions.</li>
 </ul>
