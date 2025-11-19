@@ -2,7 +2,6 @@
 
 <p align="left">
   💡 Exploring new technologies and ideas<br>
-  🎓 BSc Computing & Cybersecurity student @ University of Essex<br>
   🌱 Learning Software Development & Ethical Hacking<br>
   🚀 Building personal projects to sharpen my skills<br>
   🧠 Passionate about cybersecurity and creative problem-solving<br>
